@@ -1,0 +1,25 @@
+JOOIN SYSTEM
+Temporary Protective License
+Version 1.0 – 22nd April 2025
+
+© 2025 Bastian Franz, Dominik von Cetto
+All rights reserved.
+
+This document is published solely for the purpose of documenting the JOOIN modular construction system and establishing it as technical prior art.
+
+No license is granted to use, reproduce, distribute, modify, or build upon any part of this work — for commercial or non-commercial purposes.
+
+This publication serves to:
+
+- Protect the concept from third-party patent claims
+
+- Document authorship and invention date
+
+- Retain full control over future licensing and development
+
+The JOOIN system is intended to be released under a suitable open license by the OOPEN Foundation, once the legal framework is finalized.
+
+Until then, all rights remain exclusively with the original authors.
+Use or reproduction of this material without explicit written permission is strictly prohibited.
+
+For licensing inquiries, contact: hello@oopen.org
